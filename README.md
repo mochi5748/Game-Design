@@ -65,4 +65,4 @@
 
 优化方向是减少简单的上下位数值替代，通过稳定收益、条件触发、爆发收益和风险收益等不同结构，让同一构筑目标下存在多条具有竞争力的选择。
 
-**[📄 查看完整拆解案 PDF](Warframe_Mod_Build_System_Analysis.pdf)**
+**[📄 查看完整拆解案 PDF](Warframe Mod Build System Analysis.pdf)**
