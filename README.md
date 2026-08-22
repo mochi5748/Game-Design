@@ -15,6 +15,15 @@
 **开发工具：** Unity
 **职责：** 独立开发 / 游戏策划 / 系统设计 / 关卡设计
 
+### 游戏截图
+
+<img src="Screenshots/cave-rescue-cover.png" width="100%">
+
+<p align="center">
+  <img src="Screenshots/cave-rescue-gameplay-ui.png" width="49%">
+  <img src="Screenshots/cave-rescue-menu.png" width="49%">
+</p>
+
 ### 核心玩法
 
 玩家进入水下洞穴寻找救援目标，在有限资源和复杂洞穴环境下完成：
