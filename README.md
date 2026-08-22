@@ -66,12 +66,3 @@
 优化方向是减少简单的上下位数值替代，通过稳定收益、条件触发、爆发收益和风险收益等不同结构，让同一构筑目标下存在多条具有竞争力的选择。
 
 **[查看完整拆解案](链接之后补)**
-
-## Portfolio
-
-**Playable Demo / System Design / Game Analysis / Level Design**
-
-
-本仓库将持续更新游戏策划相关作品，包括：
-
-**Playable Demo / System Design / Game Analysis / Level Design**
